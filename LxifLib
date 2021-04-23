@@ -527,7 +527,7 @@ function Flux:Window(text, bottom,mainclr,toclose)
 
 			Button.Name = "Button"
 			Button.Parent = Container
-			Button.BackgroundColor3 = Color3.fromRGB(50, 50, 55)
+			Button.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
 			Button.ClipsDescendants = true
 			Button.Position = UDim2.new(0.370312512, 0, 0.552631557, 0)
 			Button.Size = UDim2.new(0, 457, 0, 43)
