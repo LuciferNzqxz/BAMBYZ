@@ -750,7 +750,7 @@ function Flux:Window(text, bottom,mainclr,toclose)
 
 			Toggle.Name = "Toggle"
 			Toggle.Parent = Container
-			Toggle.BackgroundColor3 = Color3.fromRGB(64, 68, 75)
+			Toggle.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
 			Toggle.ClipsDescendants = true
 			Toggle.Position = UDim2.new(0.110937506, 0, 0.67653507, 0)
 			Toggle.Size = UDim2.new(0, 457, 0, 43)
@@ -1021,7 +1021,7 @@ function Flux:Window(text, bottom,mainclr,toclose)
 
 			Slider.Name = "Slider"
 			Slider.Parent = Container
-			Slider.BackgroundColor3 = Color3.fromRGB(64, 68, 75)
+			Slider.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
 			Slider.ClipsDescendants = true
 			Slider.Position = UDim2.new(0.189062506, 0, 0.648612201, 0)
 			Slider.Size = UDim2.new(0, 457, 0, 60)
@@ -1316,7 +1316,7 @@ function Flux:Window(text, bottom,mainclr,toclose)
 
 			Dropdown.Name = "Dropdown"
 			Dropdown.Parent = Container
-			Dropdown.BackgroundColor3 = Color3.fromRGB(64, 68, 75)
+			Dropdown.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
 			Dropdown.ClipsDescendants = true
 			Dropdown.Position = UDim2.new(0.110937499, 0, 0.67653507, 0)
 			Dropdown.Size = UDim2.new(0, 457, 0, 43)
@@ -1817,7 +1817,7 @@ function Flux:Window(text, bottom,mainclr,toclose)
 
 			Colorpicker.Name = "Colorpicker"
 			Colorpicker.Parent = Container
-			Colorpicker.BackgroundColor3 = Color3.fromRGB(64, 68, 75)
+			Colorpicker.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
 			Colorpicker.ClipsDescendants = true
 			Colorpicker.Position = UDim2.new(0.110937499, 0, 0.67653507, 0)
 			Colorpicker.Size = UDim2.new(0, 457, 0, 43)
@@ -1934,7 +1934,7 @@ function Flux:Window(text, bottom,mainclr,toclose)
 
 			Toggle.Name = "Toggle"
 			Toggle.Parent = Title
-			Toggle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Toggle.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
 			Toggle.BackgroundTransparency = 1.000
 			Toggle.Position = UDim2.new(2.37430048, 0, 1.07157099, 0)
 			Toggle.Size = UDim2.new(0, 137, 0, 38)
@@ -2319,7 +2319,7 @@ function Flux:Window(text, bottom,mainclr,toclose)
 
 			Title.Name = "Title"
 			Title.Parent = Label
-			Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Title.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
 			Title.BackgroundTransparency = 1.000
 			Title.Position = UDim2.new(0.038480062, 0, 0, 0)
 			Title.Size = UDim2.new(0, 113, 0, 42)
@@ -2353,7 +2353,7 @@ function Flux:Window(text, bottom,mainclr,toclose)
 
 			Textbox.Name = "Textbox"
 			Textbox.Parent = Container
-			Textbox.BackgroundColor3 = Color3.fromRGB(64, 68, 75)
+			Textbox.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
 			Textbox.ClipsDescendants = true
 			Textbox.Position = UDim2.new(0.0459499061, 0, 0.734449744, 0)
 			Textbox.Size = UDim2.new(0, 457, 0, 43)
@@ -2369,7 +2369,7 @@ function Flux:Window(text, bottom,mainclr,toclose)
 
 			Title.Name = "Title"
 			Title.Parent = Textbox
-			Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Title.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
 			Title.BackgroundTransparency = 1.000
 			Title.Position = UDim2.new(0.0822437406, 0, 0, 0)
 			Title.Size = UDim2.new(0, 113, 0, 42)
@@ -2407,7 +2407,7 @@ function Flux:Window(text, bottom,mainclr,toclose)
 
 			Description.Name = "Description"
 			Description.Parent = Title
-			Description.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Description.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
 			Description.BackgroundTransparency = 1.000
 			Description.Position = UDim2.new(-0.200942323, 0, 0.985714269, 0)
 			Description.Size = UDim2.new(0, 432, 0, 31)
@@ -2430,7 +2430,7 @@ function Flux:Window(text, bottom,mainclr,toclose)
 			TextboxFrameCorner.Parent = TextboxFrame
 
 			TextBox.Parent = TextboxFrame
-			TextBox.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			TextBox.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
 			TextBox.BackgroundTransparency = 1.000
 			TextBox.Size = UDim2.new(0, 161, 0, 26)
 			TextBox.Font = Enum.Font.Gotham
@@ -2578,7 +2578,7 @@ function Flux:Window(text, bottom,mainclr,toclose)
 
 			Bind.Name = "Bind"
 			Bind.Parent = Container
-			Bind.BackgroundColor3 = Color3.fromRGB(64, 68, 75)
+			Bind.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
 			Bind.ClipsDescendants = true
 			Bind.Position = UDim2.new(0.40625, 0, 0.828947306, 0)
 			Bind.Size = UDim2.new(0, 457, 0, 43)
@@ -2594,7 +2594,7 @@ function Flux:Window(text, bottom,mainclr,toclose)
 
 			Title.Name = "Title"
 			Title.Parent = Bind
-			Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Title.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
 			Title.BackgroundTransparency = 1.000
 			Title.Position = UDim2.new(0.0822437406, 0, 0, 0)
 			Title.Size = UDim2.new(0, 113, 0, 42)
