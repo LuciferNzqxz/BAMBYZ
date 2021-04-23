@@ -2421,7 +2421,7 @@ function Flux:Window(text, bottom,mainclr,toclose)
 
 			TextboxFrame.Name = "TextboxFrame"
 			TextboxFrame.Parent = Title
-			TextboxFrame.BackgroundColor3 = Color3.fromRGB(50, 53, 59)
+			TextboxFrame.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
 			TextboxFrame.Position = UDim2.new(1.82300889, 0, 0.202380955, 0)
 			TextboxFrame.Size = UDim2.new(0, 161, 0, 26)
 
