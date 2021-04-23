@@ -2280,7 +2280,7 @@ function Flux:Window(text, bottom,mainclr,toclose)
 
 			Line.Name = "Line"
 			Line.Parent = Container
-			Line.BackgroundColor3 = Color3.fromRGB(64, 68, 75)
+			Line.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
 			Line.ClipsDescendants = true
 			Line.Position = UDim2.new(0, 0, 0.70091325, 0)
 			Line.Size = UDim2.new(0, 457, 0, 4)
