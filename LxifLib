@@ -443,7 +443,7 @@ function Flux:Window(text, bottom,mainclr,toclose)
 		Container.Name = "Container"
 		Container.Parent = ContainerFolder
 		Container.Active = true
-		Container.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		Container.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
 		Container.BackgroundTransparency = 1.000
 		Container.BorderSizePixel = 0
 		Container.Position = UDim2.new(0.321529746, 0, 0.0475206599, 0)
@@ -543,7 +543,7 @@ function Flux:Window(text, bottom,mainclr,toclose)
 
 			Title.Name = "Title"
 			Title.Parent = Button
-			Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Title.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
 			Title.BackgroundTransparency = 1.000
 			Title.Position = UDim2.new(0.0822437406, 0, 0, 0)
 			Title.Size = UDim2.new(0, 113, 0, 42)
@@ -766,7 +766,7 @@ function Flux:Window(text, bottom,mainclr,toclose)
 
 			Title.Name = "Title"
 			Title.Parent = Toggle
-			Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Title.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
 			Title.BackgroundTransparency = 1.000
 			Title.Position = UDim2.new(0.0822437406, 0, 0, 0)
 			Title.Size = UDim2.new(0, 113, 0, 42)
@@ -1037,7 +1037,7 @@ function Flux:Window(text, bottom,mainclr,toclose)
 
 			Title.Name = "Title"
 			Title.Parent = Slider
-			Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Title.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
 			Title.BackgroundTransparency = 1.000
 			Title.Position = UDim2.new(0.0822437406, 0, 0, 0)
 			Title.Size = UDim2.new(0, 113, 0, 42)
