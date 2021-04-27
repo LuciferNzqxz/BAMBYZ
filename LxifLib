@@ -2353,7 +2353,7 @@ function Flux:Window(text, bottom,mainclr,toclose)
 
 			Textbox.Name = "Textbox"
 			Textbox.Parent = Container
-			Textbox.BackgroundColor3 = Color3.fromRGB(50, 50, 60)
+			Textbox.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
 			Textbox.ClipsDescendants = true
 			Textbox.Position = UDim2.new(0.0459499061, 0, 0.734449744, 0)
 			Textbox.Size = UDim2.new(0, 457, 0, 43)
@@ -2421,7 +2421,7 @@ function Flux:Window(text, bottom,mainclr,toclose)
 
 			TextboxFrame.Name = "TextboxFrame"
 			TextboxFrame.Parent = Title
-			TextboxFrame.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
+			TextboxFrame.BackgroundColor3 = Color3.fromRGB(60, 60, 65)
 			TextboxFrame.Position = UDim2.new(1.82300889, 0, 0.202380955, 0)
 			TextboxFrame.Size = UDim2.new(0, 161, 0, 26)
 
